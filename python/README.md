@@ -1,4 +1,4 @@
-### Integration example using Python 3
+# Integration example using Python 3
 
 The script in this directory will show you how to authenticate
 to the PaidRight data platform (dpw) and upload csv files for 
