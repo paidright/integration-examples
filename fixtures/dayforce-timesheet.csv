@@ -1,0 +1,2 @@
+Department,Employee Number,Location Name,Job,Pay Date,Schedule In,Schedule Out,Time Start Raw,Time End Raw,Actual In,Actual Out,Pay Code,Pay Category,Schedule Hours,Actual Hours,Pay Amount
+Best Team,9_DFSpec,Mars,Working and stuff,28/11/2022,9:00 am,5:30 pm,9:05 am,5:45 pm,9:00:00,12:00:00,Ordinary,Ordinary,8,7.5,20.5

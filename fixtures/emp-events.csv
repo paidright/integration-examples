@@ -1,0 +1,9 @@
+employee_id,effective_from,birth_date,joined_date,employee_type,employee_classification,terminated_date,grade,position,position_start,contracted_hours,location,state,postcode
+1,2022-01-01,1980-01-01,2022-01-01,Dayworker,FullTime,,Retail Employee Level 5,pleb,2022-01-01,38,,NSW,2000
+2,2022-01-01,1980-01-01,2022-01-01,Dayworker,FullTime,,Retail Employee Level 5,pleb,2022-01-01,38,,NSW,2000
+3,2022-01-01,1980-01-01,2022-01-01,Dayworker,FullTime,,Retail Employee Level 5,pleb,2022-01-01,38,,NSW,2000
+4,2022-01-01,1980-01-01,2022-01-01,Dayworker,FullTime,,Retail Employee Level 5,pleb,2022-01-01,38,,NSW,2000
+5,2022-01-01,1980-01-01,2022-01-01,Dayworker,FullTime,,Retail Employee Level 5,pleb,2022-01-01,38,,NSW,2000
+,2022-01-01,1980-01-01,2022-01-01,Dayworker,FullTime,,Retail Employee Level 5,pleb,2022-01-01,38,,NSW,2000
+6_Kts_PRee,2022-01-01,1980-01-01,2022-01-01,Dayworker,FullTime,,Retail Employee Level 5,kronos,2022-01-01,38,,NSW,2000
+7_Kts_PRee,2022-01-01,1980-01-01,2022-01-01,Dayworker,FullTime,,Retail Employee Level 5,kronos,2022-01-01,38,,NSW,2000

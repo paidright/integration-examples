@@ -1,0 +1,10 @@
+employee,arrangement_code,value,effective_start,effective_start_tz,effective_end,effective_end_tz,code_status
+1,RestBreak,600,,,,,TRUE
+2,RestBreak,720,,,,,TRUE
+3,RestBreak,600,,,,,TRUE
+4,RestBreak,600,,,,,TRUE
+5,RestBreak,600,,,,,TRUE
+5,RestBreak,720,,,,,FALSE
+1,RegularSundayWorker,,,,,,TRUE
+ALL,DaysInRosterCycle,19,,,,,TRUE
+1,DaysInRosterCycle,20,,,,,TRUE

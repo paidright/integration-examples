@@ -1,0 +1,14 @@
+employee,allowance_code,value,effective_start,effective_start_tz,effective_end,effective_end_tz,code_status
+1,FirstAidAllowance,,,,,,TRUE
+2,BrokenHillAllowance,,,,,,TRUE
+2,MealAllowance,,,,,,TRUE
+3,MealAllowance,,,,,,FALSE
+4,HigherDutyAllowance,Retail Employee Level 7,,,,,TRUE
+5,ColdWorkAllowanceOne,,,,,,TRUE
+1,ColdWorkAllowanceTwo,,,,,,TRUE
+ALL,ClothingAllowance,,,,,,TRUE
+4,VehicleAllowance,8,,,,,TRUE
+5,LiquorLicenceAllowance,,,,,,TRUE
+1,RecallAllowance,,,,,,TRUE
+2,RecallAllowance,,,,,,TRUE
+3,HigherDutyAllowance,Retail Employee Level 6,,,,,TRUE
